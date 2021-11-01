@@ -1,5 +1,6 @@
 import Header from './containers/Header'
 
+import "@fontsource/roboto";
 import './App.scss';
 
 function App() {
